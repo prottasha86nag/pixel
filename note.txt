@@ -1,0 +1,4 @@
+orage #e54c2a
+
+background-image: url(../images/backgr.jpg);
+
